@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+header{
+  background-color: red;
+  display: flex;
+  margin: 10 20 10 20;
+  padding: 10px;
+}
+footer{
+  display: flex;
+  margin-top: 75px;
+  background-color: red;
+}
+.fot{
+  padding: 10px 100px 10px 100px;
+}
+
+.Card{
+  margin-top: 75px;
+  display: flex;
+  justify-content: center;
+}
+
+.ft{
+  padding: 1%;
+}
+.bt{
+  padding: 15px;
+}
