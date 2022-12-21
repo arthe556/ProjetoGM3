@@ -10,7 +10,10 @@ No trabalho foi utilizado axios para consumir uma Api externa crida e armazenada
 
 -------------------------------
 
-![image](https://user-images.githubusercontent.com/113726682/208924466-6143dee6-511e-4d62-8761-0b83ea226fd2.png)
+![image](https://user-images.githubusercontent.com/113726682/208926363-21767f41-53a4-4b17-b945-d9c5a8e901e7.png)
+![image](https://user-images.githubusercontent.com/113726682/208926732-f9668c8c-a882-4a56-ab81-2b096b6c5bf9.png)
+
+
 
 PARA BAIXAR AS DEPENDENCIAS USE:
 
